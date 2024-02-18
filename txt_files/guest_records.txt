@@ -1,0 +1,20 @@
+john#smith#+453725#john.smith@gmail.com#Australian#a564832#3#2022-05-09*2022-05-15*103
+irina#pavlova#+574638#irina.pavlova@gmail.com#Russian#a548362#4#2022-05-08*2022-05-09*103
+michael#romanov#+5475382#m.romanov@mail.ru#Russian#e374521#5#2022-05-13*2022-05-17*101
+miranda#cosgrove#+6583227#miranda.cosgrove@gmail.com#American#a65836#7#2022-05-15*2022-05-17*103
+sarah#terner#+658362#sarah@gmail.com#British#a65846#8#2022-05-05*2022-05-08*104
+carry#maurice#+548362#carrymaurice@gmail.com#German#a649264#9#2022-05-07*2022-05-11*105
+sam#clafflin#+548362#sam2043@gmail.com#French#23648r#10#2022-05-18*2022-05-25*118
+dakota#stark#+658463#dakota.stark@gmail.com#French#a659372#11#2022-05-25*2022-05-27*118
+nate#daymon#+658462#nate.daymon@gmail.com#American#a564836#12#2022-05-26*2022-05-29*108
+brad#roman#+56483#brad3746@gmail.com#Italian#a564834#13#2022-05-24*2022-05-27*109
+lalisa#manoban#+659465#lalisa.lisa@gmail.com#Thai#a759374#14#2022-05-23*2022-05-26*110
+linh#tong#+659364#linh.tong@gmail.com#Vietnamese#a453854#16#2022-05-04*2022-06-04*117
+noah#martinez#+5648352#noah.martinex@gmail.com#Mexican#f2964836#17#2022-05-06*2022-05-17*106
+johnny#depp#+937422#jack.sparrow@gmail.com#American#q956382#18#2022-05-17*2022-05-24*116
+clara#merry#+4537252#clara@gmail.com#American#a243624#19#2022-05-17*2022-05-25*101
+amanda#fanning#+4862#amanda.fanning@gmail.com#American#a659362#1#2022-05-08*2022-05-12*101*meal
+yoona#lim#+548352#yoona.lim@gmail.com#South Korean#a658362#2#2022-05-07*2022-05-10*102*cleaning
+yongbok#lee#+5648363#yongbok@gmail.com#South Korean#a65846#15#2022-05-10*2022-05-14*108*additional bed
+anna#frandy#+4537281#anna.frandy@gmail.com#Dutch#a548252#6#2022-05-13*2022-05-17*102*cleaning
+dakota#jackson#+5693653#dakota@gmail.com#British#f3548362#20#2022-05-25*2022-05-29*115*laundry
